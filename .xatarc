@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://demo-uni3q8.eu-central-1.xata.sh/db/clara-app",
+  "codegen": {
+    "output": "src/lib/xata.ts"
+  }
+}

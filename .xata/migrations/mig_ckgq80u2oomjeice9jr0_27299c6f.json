@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckgq80u2oomjeice9jr0",
+  "parentID": "mig_ckgq7ug2v5k4deao68fg",
+  "checksum": "1:27299c6f794cd15c9ca53a5f81e38264bbbd982c44529aabfa06e5a3aa430df3",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "string"
+        },
+        "table": "friends"
+      }
+    }
+  ]
+}
